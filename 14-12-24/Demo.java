@@ -11,11 +11,7 @@ public class Demo{
     /*
     This is a multi-line comment
     */
-
     System.out.println("Addition of two numbers "+(num1)+" + "+(num2)+" = "+(num1+num2));
-
-
     
     }
-
 }
